@@ -16,7 +16,7 @@
     "react-dom": "^16.13.1",
     "react-leaf-carousel": "^2.0.0",
     "react-loadingg": "^1.7.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "reactstrap": "^8.4.1",
     "sendemail": "^4.0.0",
     "sweetalert2": "^9.10.12"
